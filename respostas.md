@@ -74,3 +74,4 @@ O comando `docker compose down -v` apagaria também os volumes nomeados, removen
 ```
 PREENCHER APÓS EXECUTAR scripts/verificar.ps1 OU scripts/verificar.sh
 ```
+AGROVALE-26128461-2B30C8CA
